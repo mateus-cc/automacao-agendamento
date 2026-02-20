@@ -1,4 +1,4 @@
-# 🤖 Robô Extrator de Dados SUS - Automação de Agendamentos
+# 🤖 Robô Extrator de Dados - Automação de Agendamentos
 
 ## 📌 Sobre o Projeto
 Um sistema de automação desenvolvido em Python para otimizar o fluxo de agendamentos médicos (Ginecologia e Pediatria) na rede pública municipal. O robô substitui a digitação manual de guias médicas em PDF, extraindo dados críticos e alimentando uma base de dados centralizada no Google Sheets de forma 100% autônoma.
